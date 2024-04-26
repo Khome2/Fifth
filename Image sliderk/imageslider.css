@@ -3,3 +3,7 @@
   width: 800px;
   height: 600px;
 }
+
+.slide-container {
+  position: relative;
+}
