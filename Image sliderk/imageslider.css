@@ -26,3 +26,7 @@
 .next {
   right: 10px;
 }
+
+.prev:hover, .next:hover {
+  background-color: #ccc;
+}
